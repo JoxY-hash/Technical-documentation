@@ -86,11 +86,11 @@ code{
     padding-right: 10px;
 }
 /* Responsiveness============== */
-/* Desktop */
-@media (min-width: 992px)and (max-width:1280px){
+/* Laptops  */
+@media (min-width: 1025px) and (max-width: 1289px) {
     #navbar{
-        width: 30%;
-        height: 50%;
+        width:49% 
+        height:150px
        
     }
 
